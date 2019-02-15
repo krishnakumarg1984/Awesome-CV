@@ -266,6 +266,7 @@ TSWLatexianTemp*
 .tags
 tags
 .tags.lock
+.tags.temp
 
 *.syg
 *.syi
